@@ -1,0 +1,78 @@
+hyperskill_project:
+  id: 430
+  ide_files: https://cogniterra.org/media/attachments/lesson/36306/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 2514
+    step: 41828
+    is_completed: false
+  - id: 2515
+    step: 41829
+    is_completed: true
+  - id: 2516
+    step: 41830
+    is_completed: false
+  - id: 2517
+    step: 41831
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to Go
+      theory_id: 17073
+    - title: Comments
+      theory_id: 16689
+    - title: Variables and constants
+      theory_id: 14468
+    - title: GoLand
+      theory_id: 19072
+    - title: Input/Output
+      theory_id: 14527
+  1:
+    - title: Control statements
+      theory_id: 16235
+    - title: Primitive types
+      theory_id: 16871
+    - title: Packages
+      theory_id: 15906
+    - title: Arithmetic operations
+      theory_id: 16679
+    - title: Strings
+      theory_id: 15412
+    - title: String formatting
+      theory_id: 16860
+    - title: Arithmetic expressions in programming
+      theory_id: 17289
+    - title: Math package
+      theory_id: 18431
+  2:
+    - title: Pointers
+      theory_id: 15463
+    - title: Loops
+      theory_id: 14707
+    - title: Functions
+      theory_id: 16388
+    - title: Modules
+      theory_id: 15970
+    - title: Main (compiling and running)
+      theory_id: 16128
+    - title: Command-line arguments and flags
+      theory_id: 17863
+    - title: Arrays
+      theory_id: 14871
+    - title: Slices
+      theory_id: 15656
+    - title: Working with slices
+      theory_id: 15935
+    - title: Compilers and interpreters
+      theory_id: 13865
+  3:
+    - title: Type conversion and overflow
+      theory_id: 18710
+    - title: Functional decomposition
+      theory_id: 17506
+    - title: Code organization. Design principles
+      theory_id: 8956
+    - title: Single Responsibility Principle
+      theory_id: 8963
